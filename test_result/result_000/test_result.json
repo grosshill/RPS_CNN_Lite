@@ -1,0 +1,1865 @@
+{
+    "Accuracy of the network on test images": "96.51%",
+    "Details": {
+        "testrock01-00.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-01.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-02.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-03.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-04.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-05.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-06.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-07.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-08.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-09.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-10.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-11.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-12.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-13.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-14.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-15.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-16.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-17.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-18.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-19.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-20.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-21.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-22.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-23.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-24.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-25.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-26.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-27.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-28.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-29.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock01-30.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-00.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-01.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-02.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-03.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-04.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-05.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-06.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-07.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-08.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-09.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-10.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-11.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-12.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-13.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-14.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-15.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-16.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-17.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-18.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-19.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-20.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-21.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-22.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-23.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-24.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-25.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-26.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-27.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-28.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-29.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock02-30.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-00.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-01.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-02.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-03.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-04.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-05.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-06.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-07.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-08.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-09.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-10.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-11.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-12.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-13.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-14.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-15.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-16.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-17.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-18.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-19.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-20.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-21.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-22.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-23.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-24.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-25.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-26.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-27.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-28.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-29.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock03-30.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-00.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-01.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-02.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-03.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-04.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-05.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-06.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-07.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-08.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-09.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-10.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-11.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-12.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-13.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-14.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-15.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-16.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-17.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-18.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-19.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-20.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-21.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-22.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-23.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-24.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-25.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-26.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-27.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-28.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-29.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testrock04-30.png": {
+            "actual": "rock",
+            "predicted": "rock",
+            "state": true
+        },
+        "testpaper01-00.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-01.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-02.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-03.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-04.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-05.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-06.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-07.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-08.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-09.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-10.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-11.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-12.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-13.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-14.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-15.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-16.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-17.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-18.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-19.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-20.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-21.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-22.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-23.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-24.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-25.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-26.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-27.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-28.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-29.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper01-30.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-00.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-01.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-02.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-03.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-04.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-05.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-06.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-07.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-08.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-09.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-10.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-11.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-12.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-13.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-14.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-15.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-16.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-17.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-18.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-19.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-20.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-21.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-22.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-23.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-24.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-25.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-26.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-27.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-28.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-29.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper02-30.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-00.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-01.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-02.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-03.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-04.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-05.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-06.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-07.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-08.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-09.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-10.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-11.png": {
+            "actual": "paper",
+            "predicted": "rock",
+            "state": false
+        },
+        "testpaper03-12.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-13.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-14.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-15.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-16.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-17.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-18.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-19.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-20.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-21.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-22.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-23.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-24.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-25.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-26.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-27.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-28.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-29.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper03-30.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-00.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-01.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-02.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-03.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-04.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-05.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-06.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-07.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-08.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-09.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-10.png": {
+            "actual": "paper",
+            "predicted": "scissors",
+            "state": false
+        },
+        "testpaper04-11.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-12.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-13.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-14.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-15.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-16.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-17.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-18.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-19.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-20.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-21.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-22.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-23.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-24.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-25.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-26.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-27.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-28.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-29.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testpaper04-30.png": {
+            "actual": "paper",
+            "predicted": "paper",
+            "state": true
+        },
+        "testscissors01-00.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-01.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-02.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-03.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-04.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-05.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-06.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-07.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-08.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-09.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-10.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-11.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-12.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-13.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-14.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-15.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-16.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-17.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-18.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-19.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-20.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-21.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-22.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-23.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-24.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-25.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-26.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-27.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-28.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-29.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors01-30.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-00.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-01.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-02.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-03.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-04.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-05.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-06.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-07.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-08.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-09.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-10.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-11.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-12.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-13.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-14.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-15.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-16.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-17.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-18.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-19.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-20.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-21.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-22.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-23.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-24.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-25.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-26.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-27.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-28.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-29.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors02-30.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-00.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-01.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-02.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-03.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-04.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-05.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-06.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-07.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-08.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-09.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-10.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-11.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-12.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-13.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-14.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-15.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-16.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-17.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-18.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-19.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-20.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-21.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-22.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-23.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-24.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-25.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-26.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-27.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-28.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-29.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors03-30.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-00.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-01.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-02.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-03.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-04.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-05.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-06.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-07.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-08.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-09.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-10.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-11.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-12.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-13.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-14.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-15.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-16.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-17.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-18.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-19.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-20.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-21.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-22.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-23.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-24.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-25.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-26.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-27.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-28.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-29.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        },
+        "testscissors04-30.png": {
+            "actual": "scissors",
+            "predicted": "scissors",
+            "state": true
+        }
+    }
+}
